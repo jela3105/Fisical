@@ -1,0 +1,8 @@
+			
+
+				HISTORIAL
+
+		  Este es el historial, para poder acceder a los datos consultados selecciona 
+		una opcion del lado izquierdo y despues selecciona el tipo de variable que 
+		has consultado, se te mostrara una tabla acerca de las cosas que ingresaste 
+		anteriormente

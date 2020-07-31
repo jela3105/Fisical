@@ -1,0 +1,29 @@
+
+				FUNCIONAMIENTO DE FISICAL
+
+	1.-Selecciona un tipo de movimiento en los botones de la izquierda
+	2.-Cuando hayas seleccionado un boton se desplegara un menu y en la parte superior debes de elegir cual dato deseas obtener
+	3.-Debes de ingresar los campos que se te piden para poder obtener el dato faltante
+	4.-Finalmente el resultado aparecera del lado izquierdo del boton resultado cuando hayas ingresado todo correctamente
+	5.-Puedes consultar tu historial, dando clic al boton "Historial"
+
+
+
+			Toma en cuenta el significado de los botones
+ 
+ 			"MRU"- Movimiento Rectilineo Uniforme
+ 			"MUA"- Movimiento Rectinileo Uniformemente Acelerado
+ 			"TP" - Tiro Parabolico
+ 			"TV" - Tiro Vertical
+ 			"CL" - Caida Libre
+
+				 	
+
+
+		NOTA: Solamente debes ingresar numeros, la cantidad ingresada se tomaran en metros, 
+		      para obtener el resultado esperado realiza las conversiones correspondientes 
+		      para ingresar todas cantidades en metros
+
+
+				DISFRUTA EL PROGRAMA ;)
+ 
